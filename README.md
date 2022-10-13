@@ -1,3 +1,3 @@
 # Hello-world
 First repository
-I am about ti modify the readme!
+I am about to modify the readme!
